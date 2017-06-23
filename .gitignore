@@ -1,0 +1,7 @@
+
+*.class
+BestEventTickets/bin/dataset.txt
+BestEventTickets/.project
+BestEventTickets/.DS_Store
+BestEventTickets/.classpath
+BestEventTickets/.settings/org.eclipse.jdt.core.prefs
